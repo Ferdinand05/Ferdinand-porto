@@ -1,0 +1,23 @@
+hr{
+    border: 1px solid black;
+    width: 20%;
+}
+
+
+section{
+    min-height: 500px;
+}
+
+
+.row{
+    margin-top: 50px;
+}
+
+body , .jumbotron{
+    background-image: url(../images/pattern\ 1.png);
+}
+
+
+nav{
+    border-bottom: 2px solid lightblue;
+}
